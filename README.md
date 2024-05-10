@@ -1,7 +1,7 @@
 # Object Detection with Speech Feedback
 This project uses OpenCV and cvlib for real-time object detection in a video stream, Google Text-to-Speech (gTTS) to convert detected object names into speech, and playsound to play the generated speech.
 
-###Dependencies
+### Dependencies
 *OpenCV
 *cvlib
 *gTTS
@@ -11,7 +11,7 @@ You can install these dependencies with pip:
 
 *playsound
 
-###How to Run
+### How to Run
 *Clone this repository.
 *Navigate to the project directory in your terminal.
 *Run python main.py.
