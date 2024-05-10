@@ -7,9 +7,7 @@ This project uses OpenCV and cvlib for real-time object detection in a video str
 * gTTS
 * playsound
 
-You can install these dependencies with pip:
-
-* playsound
+You can install all these dependencies with pip
 
 ### How to Run
 * Clone this repository.
